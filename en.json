@@ -1,0 +1,87 @@
+{
+	"hero": {
+		"message": "Deecido helps you find the best Recruitment Professionals",
+		"description": "With the right competencies, references and price"
+	},
+	"landingsection_01": {
+		"message": "Get started now",
+		"description": "The process can be described in 4 quick steps",
+		"group": ""
+	},
+	"landingsection_02": {
+		"message": "Here is what You will get when using Deecido",
+		"description": ""
+	},
+	"landingsection_03": {
+		"message": "All Recruitment Partners are",
+		"description": ""
+	},
+	"landingsection_04": {
+		"message": "The service includes",
+		"description": ""
+	},
+	"info_01": {
+		"message": "Request and offers",
+		"description": "Tell us what you need and receive up to 3 relevant offers"
+	},
+	"info_02": {
+		"message": "Pick your new Recruitment Partner",
+		"description": "Compare quotes based on price, competencies, geography, and ratings"
+	},
+	"info_03": {
+		"message": "Accept offer and terms",
+		"description": "Get Deecido standard terms build in to you contract with your new Recruitment Partner"
+	},
+	"info_04": {
+		"message": "Data and insights",
+		"description": "After the assignment is finalized, you give the Recruitment feedback on the performance and you get valueable insights from the candidates"
+	},
+	"info_05": {
+		"message": "A transparrent Recruitment Business, where the best and most professional Recruitment Partners will get the credit they deserve",
+		"description": ""
+	},
+	"info_06": {
+		"message": "An overview of the best recruitment partners in every business area, geography, price range i.e.",
+		"description": ""
+	},
+	"info_07": {
+		"message": "Deecido standard terms, which will save you lots of time. All Recruitment partners will always as a minimum match the Deecido terms when comes to guerantee, payment, exclusivity i.e.",
+		"description": ""
+	},
+	"info_08": {
+		"message": "GDPR Compliant",
+		"description": ""
+	},
+	"info_09": {
+		"message": "Certified in relevant psycometric test tool",
+		"description": ""
+	},
+	"info_10": {
+		"message": "Rated by previous Deecido Clients",
+		"description": ""
+	},
+	"info_11": {
+		"message": "Guarantee",
+		"description": "Minimum 6 months guarantee on the recruitment"
+	},
+	"info_12": {
+		"message": "Terms",
+		"description": "The same standard terms regardless which Recruitment Partner you choose"
+	},
+	"info_13": {
+		"message": "Payment",
+		"description": "Payment in 3 installments with 1/3 upfront, 1/3 at Candidate presentation and 1/3 on delivery"
+	},
+	"info_14": {
+		"message": "Transparency",
+		"description": "Full transparency of the Recruitment Market and which Consultants who perform best"
+	},
+	"info_15": {
+		"message": "Results",
+		"description": "A Recruitment Partner who will go the extra mile in order to get a successful client and a good rating"
+	},
+	"cta": {
+		"message": "Get started now - it´s totally free",
+		"description": ""
+	},
+}
