@@ -1,1 +1,33 @@
-# contentbroker
+# Content Broker
+
+```
+{
+  "extensionName": {
+    "message": "Notify link clicks i18n",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Shows a notification when the user clicks on links.",
+    "description": "Description of the extension."
+  },
+
+  "notificationTitle": {
+    "message": "Click notification",
+    "description": "Title of the click notification."
+  },
+
+  "notificationContent": {
+    "message": "You clicked $URL$.",
+    "description": "Tells the user which link they clicked.",
+    "placeholders": {
+      "url" : {
+        "content" : "$1",
+        "example" : "https://developer.mozilla.org"
+      }
+    }
+  }
+}
+```
+But adding a Group key so that it's possible to fetch everything for e.g.
+the homepage.
