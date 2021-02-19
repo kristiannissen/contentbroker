@@ -1,0 +1,14 @@
+/project/contentBroker/bin/Debug/netcoreapp2.1/contentBroker.deps.json
+/project/contentBroker/bin/Debug/netcoreapp2.1/contentBroker.runtimeconfig.json
+/project/contentBroker/bin/Debug/netcoreapp2.1/contentBroker.runtimeconfig.dev.json
+/project/contentBroker/bin/Debug/netcoreapp2.1/contentBroker.dll
+/project/contentBroker/bin/Debug/netcoreapp2.1/contentBroker.pdb
+/project/contentBroker/obj/Debug/netcoreapp2.1/contentBroker.csprojAssemblyReference.cache
+/project/contentBroker/obj/Debug/netcoreapp2.1/contentBroker.csproj.CoreCompileInputs.cache
+/project/contentBroker/obj/Debug/netcoreapp2.1/contentBroker.RazorAssemblyInfo.cache
+/project/contentBroker/obj/Debug/netcoreapp2.1/contentBroker.RazorAssemblyInfo.cs
+/project/contentBroker/obj/Debug/netcoreapp2.1/contentBroker.AssemblyInfoInputs.cache
+/project/contentBroker/obj/Debug/netcoreapp2.1/contentBroker.AssemblyInfo.cs
+/project/contentBroker/obj/Debug/netcoreapp2.1/contentBroker.RazorTargetAssemblyInfo.cache
+/project/contentBroker/obj/Debug/netcoreapp2.1/contentBroker.dll
+/project/contentBroker/obj/Debug/netcoreapp2.1/contentBroker.pdb
